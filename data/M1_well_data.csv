@@ -1,3 +1,4 @@
+# Data of rainfall (mm/day) and pollutant concentration (mg/L) from a well.
 day,rainfall,concentration
 0,2.790811858878986,5.109656446106588
 1,5.197569122539385,5.113377309517321
